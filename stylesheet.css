@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+.game-board {
+    margin-left: 37%;
+    margin-top: 10%;
+}
+.middle {
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
+.bottom {
+    width: 100px;
+    height: 100px;    
+    border-bottom: 2px solid black;
+}
+.horizontal {
+    width: 100px;
+    height: 100px;    
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+.center {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;    
+}
